@@ -6,11 +6,11 @@ Task list is a task management system that a person can type his todo task and s
 
 Task management uses simple open souce libraries/projects to run:
 
-* [AngularJS] - HTML based frontend framework
-* [node.js] - Javascript based framework for providing the server
-* [Express] - fast node.js network app framework
+* [AngularJS](https://angularjs.org/) - HTML based frontend framework
+* [node.js](https://nodejs.org/en/) - Javascript based framework for providing the server
+* [Express](http://expressjs.com/) - fast node.js network app framework
 * [ESLint](https://eslint.org/) - Javascript based framework to maintain the code readability.
-* [jQuery] - Javascript based library for quick DOM manipulation
+* [jQuery](https://jquery.com/) - Javascript based library for quick DOM manipulation
 
 ### Installation
 
